@@ -1,1 +1,8 @@
-
+<new>
+  <id>1</id>
+  <summary>dont_open_site_gapa.com</summary
+  <AR>site_dont_open</AR>
+  <ER>site_is_open</ER>
+  <priority>high</priority>
+  <severity>blocker</severity>
+</new>
